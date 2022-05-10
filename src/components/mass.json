@@ -1,0 +1,150 @@
+{
+  "data": {
+    "users": [
+      {
+        "user_games": [
+          {
+            "game": {
+              "name": "Mass Effect",
+              "howlongtobeat_infos": {
+                "howlongtobeat_url": "https://howlongtobeat.com/game.php?id=5698",
+                "howlongtobeat_main": 17,
+                "howlongtobeat_main_unit": "Hours",
+                "howlongtobeat_main_extra": 28,
+                "howlongtobeat_main_extra_unit": "Hours",
+                "howlongtobeat_completionist": 43,
+                "howlongtobeat_completionist_unit": "Hours"
+              },
+              "howlongtobeat_rating": 84,
+              "aggregated_rating": 88.5,
+              "aggregated_rating_count": 5,
+              "cover": {
+                "id": 89700,
+                "alpha_channel": false,
+                "animated": false,
+                "game": 73,
+                "height": 973,
+                "image_id": "co1x7o",
+                "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1x7o.jpg",
+                "width": 730,
+                "checksum": "98ad0bba-7e67-a7e9-3756-33573fc815ee"
+              },
+              "genres_games": [
+                {
+                  "genre": {
+                    "name": "Role-playing (RPG)",
+                    "id": 12,
+                    "slug": "role-playing-rpg"
+                  }
+                },
+                {
+                  "genre": {
+                    "name": "Shooter",
+                    "id": 5,
+                    "slug": "shooter"
+                  }
+                }
+              ],
+              "similar_games": [
+                75,
+                76,
+                78,
+                471,
+                498,
+                1011,
+                1877,
+                1887,
+                55038,
+                68286
+              ],
+              "slug": "mass-effect",
+              "summary": "What starts as a routine mission to an agrarian outpost quickly becomes the opening salvo in an epic war. As the newly appointed Executive Officer of the SSV Normandy, you'll assemble and lead an elite squad of heroes into battle after heart-pounding battle. Each decision you make will impact not only your fate, but the destiny of the entire galaxy in the Mass Effect trilogy.\n\nKey Features:\n\nIncredible, interactive storytelling. Create and customize your own character, from Commander Shepard's appearance and skills to a personalized arsenal. Unleash devastating abilities as you command and train. Your decisions will control the outcome of each mission, your relationships with your crew and ultimately the entire war.\n\nAn amazing universe to explore. From the massive Citadel to the harsh, radioactive landscape of the Krogan home world – the incredible breadth of the Mass Effect universe will blow you away. Travel to the farthest outposts aboard the SSV Normandy, the most technologically advanced ship in the galaxy. You'll follow the clues left by ancient civilizations, discover hidden bases with fantastic new tech and lead your hand-picked crew into explosive alien battles.\n\nEdge-of-your-seat excitement meets strategic combat. Find the perfect combination of squad-mates and weapons for each battle if you want to lead them to victory. Sun-Tzu's advice remains as pertinent in 2183 as it is today – know your enemy. You'll need different tactics for a squad of enemies with devastating biotic attacks than a heavily armored Geth Colossus so choose your teams wisely.",
+              "total_rating": 87.4864807182408,
+              "total_rating_count": 1765,
+              "url": "https://www.igdb.com/games/mass-effect",
+              "websites": [
+                {
+                  "url": "http://masseffect.wikia.com/wiki/Mass_Effect_Wiki",
+                  "id": 18923,
+                  "category": "wikia"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Mass_Effect_(video_game)",
+                  "id": 18924,
+                  "category": "wikipedia"
+                },
+                {
+                  "url": "https://www.facebook.com/masseffect",
+                  "id": 18925,
+                  "category": "facebook"
+                },
+                {
+                  "url": "https://www.twitch.tv/masseffect",
+                  "id": 18926,
+                  "category": "twitch"
+                },
+                {
+                  "url": "https://www.instagram.com/masseffect",
+                  "id": 18927,
+                  "category": "instagram"
+                },
+                {
+                  "url": "https://www.youtube.com/user/biowaremasseffect",
+                  "id": 18928,
+                  "category": "youtube"
+                },
+                {
+                  "url": "https://store.steampowered.com/app/17460",
+                  "id": 40586,
+                  "category": "steam"
+                },
+                {
+                  "url": "http://masseffect.bioware.com/",
+                  "id": 40587,
+                  "category": "official"
+                }
+              ],
+              "perspectives_games": [
+                {
+                  "perspective": {
+                    "id": 2,
+                    "name": "Third person",
+                    "slug": "third-person"
+                  }
+                }
+              ],
+              "platforms_games": [
+                {
+                  "platform": {
+                    "name": "PC (Microsoft Windows)",
+                    "logo": "//images.igdb.com/igdb/image/upload/t_thumb/irwvwpl023f8y19tidgq.jpg",
+                    "id": 6,
+                    "slug": "win"
+                  }
+                },
+                {
+                  "platform": {
+                    "name": "PlayStation 3",
+                    "logo": "//images.igdb.com/igdb/image/upload/t_thumb/tuyy1nrqodtmbqajp4jg.jpg",
+                    "id": 9,
+                    "slug": "ps3"
+                  }
+                },
+                {
+                  "platform": {
+                    "name": "Xbox 360",
+                    "logo": "//images.igdb.com/igdb/image/upload/t_thumb/plha.jpg",
+                    "id": 12,
+                    "slug": "xbox360"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "id": 1,
+        "name": "Simone"
+      }
+    ]
+  }
+}
